@@ -1,0 +1,25 @@
+{
+  "development": {
+    "username": "root",
+    "database": "Users",
+    "host": "localhost",
+    "dialect": "mysql",
+    "operatorsAliases": 0
+  },
+  "test": {
+    "username": "root",
+    "password": null,
+    "database": "database_test",
+    "host": "localhost",
+    "dialect": "mysql2",
+    "operatorsAliases": false
+  },
+  "production": {
+    "username": "root",
+    "password": null,
+    "database": "database_production",
+    "host": "localhost",
+    "dialect": "mysql2",
+    "operatorsAliases": false
+  }
+}
